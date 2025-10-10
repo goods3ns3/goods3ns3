@@ -12,4 +12,9 @@
 
 <p>
   <a href="https://e-booka.online/" target="_blank"><strong>E-BOOKA</strong></a> — PDF → EPUB Smart Converter
+  <ul>
+    <li>Remove Headers/Footers/Paging</li>
+    <li>Change cover image</li>
+    <li>Edit metadata</li>
+  </ul>
 </p>
